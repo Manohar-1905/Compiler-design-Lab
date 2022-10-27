@@ -1,0 +1,38 @@
+/*BEFORE DEAD CODE*/
+
+#include<stdio.h>
+int main()
+{
+    int a=4;
+    int b=5;
+    int c;
+    c=a*(b>>1);
+    if(0){
+        printf("%d",c);
+    }
+    printf("The above if condition is a dead lock elimination");
+    return 0;
+}
+
+/*
+  output:
+   The above if condition is a dead lock elimination
+*/
+
+/*AFTER ELIMINATION OF DEAD CODE*/
+
+#include<stdio.h>
+int main()
+{
+   int a=4;
+   int b=5;
+   int c;
+   c=a*(b>>1);
+   printf("The value is:%d",c);
+   return 0;
+ }
+ 
+ /*
+  output:
+   The value is:8
+ */
