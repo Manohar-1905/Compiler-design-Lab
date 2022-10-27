@@ -1,0 +1,45 @@
+/*FOR LOOP*/
+
+#include<stdio.h>
+int main()
+{
+    int i,n;
+    int fact=1;
+    printf("Enter number");
+    scanf("%d",&n);
+    for(i=1;i<=n;i++)
+    {
+        fact=fact*i;
+    }
+    printf("factorial is:%d",fact);
+    return 0;
+}
+
+/*
+ output:
+  Enter a number:8
+  Factorial is :40320
+*/
+
+/*DO-WHILE LOOP*/
+
+#include<stdio.h>
+int main()
+{
+    int n;
+    int f=1;
+    printf("Enter number");
+    scanf("%d",&n);
+    do{
+        f=f*n;
+        n--;
+    }while(n>0);
+    printf("factorial is:%d",f);
+    return 0;
+}
+
+/*
+  output:
+   Enter a number:8
+   Factorial is :40320
+*/
