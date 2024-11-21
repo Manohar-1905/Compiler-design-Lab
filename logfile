@@ -1,0 +1,116 @@
+commit e932c889f7f478202ce8f21692ee9c34d9026335
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Nov 21 10:58:43 2024 +0000
+
+    modified textfile
+
+commit d0176215bb3488017ebff82a6817218934d86474
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Nov 21 10:29:08 2024 +0000
+
+    deleted
+
+commit 66a16dfc5ec334e08f0cfa61a03abbe3c1b72007
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Nov 21 10:27:05 2024 +0000
+
+    new file added
+
+commit c64f3d2c0a0a2893888de8cecb75d699397c97cf
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Nov 21 09:56:48 2024 +0000
+
+    files deleted
+
+commit 75539b5c5342ec9ccc7cda4e0d511638c5aa8d23
+Merge: 5ac170f 1414bf6
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Nov 21 15:16:39 2024 +0530
+
+    Merge pull request #3 from Manohar-1905/oldbranch
+    
+    Merge pull request #2 from Manohar-1905/main
+
+commit 1414bf6d49011b578bfe1b39285600394946aee3
+Merge: 9b4ccf6 5ac170f
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Nov 21 15:15:55 2024 +0530
+
+    Merge pull request #2 from Manohar-1905/main
+    
+    Merge pull request #1 from Manohar-1905/oldbranch
+
+commit 5ac170f378df5bf4213f691fbc33d81d4a27bc62
+Merge: ce827a7 9b4ccf6
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Nov 21 15:15:20 2024 +0530
+
+    Merge pull request #1 from Manohar-1905/oldbranch
+    
+    Oldbranch
+
+commit 9b4ccf63c6c09f87393da15485f45b0f4df348ea
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Nov 21 09:41:41 2024 +0000
+
+    fileold
+
+commit 2e9397c4cd62e39dab8ac15b8c1e5f0dd69a6b58
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Nov 21 09:35:29 2024 +0000
+
+    new file added
+
+commit ce827a79c7b484913b9ff94b4a16d0e7cd166da2
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Nov 21 09:21:22 2024 +0000
+
+    filr deleted
+
+commit 0df2cd1c9e1cfd2c4f8d0750e3332cf031fb8e37
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Nov 21 09:08:19 2024 +0000
+
+    new file added
+
+commit acaa06c15d0ddca869149685580ce1b92ba9686f
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Nov 21 09:02:21 2024 +0000
+
+    new file addes
+
+commit 1311613c0713017d281d9bf638b1b129a4a46e85
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Oct 27 12:00:52 2022 +0530
+
+    Create Symbol table implementation in c
+
+commit 11683d086ca0e16cb75e2a91b4824f76033a0273
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Oct 27 11:51:25 2022 +0530
+
+    Create simple calculator using c
+
+commit c7a8719c597620bc3e8576e3e56167b9591c6c66
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Oct 27 11:39:13 2022 +0530
+
+    Create code optimisation using Dead code optimisation
+
+commit 7ee4e8f25e3f8ab1a5da6e84e38db6f46af58d12
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Oct 27 11:33:47 2022 +0530
+
+    Create code optimisation using control flow
+
+commit 3f408f927af6490b741dda74c015747c9bf69115
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Sep 22 11:55:53 2022 +0530
+
+    Create 3Address Code Generator in C
+
+commit a446e84022d82d04354d6c0d8b833caebfb46c6f
+Author: Vakkalagedda Krishna Manohar <113018572+Manohar-1905@users.noreply.github.com>
+Date:   Thu Sep 8 11:45:52 2022 +0530
+
+    Create Simple calculator using lex
